@@ -14,7 +14,7 @@ Demos illustrating OSPABP for flightdata are provided in:
 
 We implement OSPABP with Matlab 2015b and perform all experiments on a laptop computer equipped with an Intel core i7-4710HQ 2.50-GHz CPU and 8 GB of memory.
 
-The code in Matlab will be open soon.....
+**The code in Matlab will be open soon.....**
 
 ## References
 OSPABP was introduced in the journal paper:
