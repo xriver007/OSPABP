@@ -1,5 +1,5 @@
 ## OSPABP: UAV flight data anomaly detection based on oversampling projection approximation basis pursuit
-Aiming at the low accuracy problem of flight data online anomaly detection caused by flight mode switching of UAV,  an online anomaly detection method is proposed based on OverSampling Projection Approximation Basis Pursuit (OSPABP)
+OverSampling Projection Approximation Basis Pursuit (OSPABP) is an online anomaly detection method for UAV flight data 
 
 ## Abstract
 Aiming at the low accuracy problem of flight data online anomaly detection caused by flight mode switching of UAV, an online anomaly detection method is proposed based on OverSampling Projection Approximation Basis Pursuit (OSPABP). Firstly, the dimension of flight data stream is eliminated with sliding window and Z-score transformation, and correlated flight data subset is extracted from sliding window. Secondly, the multivariate data of the subset in current time is oversampled to amplify the influence of abnormal data on data subspace. Through online estimation and pursuing match of the direction change of the projection approximation basis of the data subspace after oversampling, the anomaly of the real time input data of the subset is determined. Meanwhile, the method can also suppress the influence of flight mode switching on anomaly detection result. The experiments on the simulated flight data from Flight Gear and the real UAV flight data from University of Minnesota were conducted; the experiment results show that the proposed OSPABP method can reduce the false positive rate of anomaly detection significantly and improve the accuracy of anomaly detection effectively as its sensitivity to flight mode switching is low. In addition, the computational and storage complexity of the OSPABP method meets the requirement of flight data real-time processing.
@@ -25,5 +25,5 @@ If you used this program in your research work, you should cite the following pu
 Y. F. He, S. J. Wang, W. J. Wang,  "UAV anomaly detection based on oversampling projection approximation basis pursuit,"
 Chinese Journal of Scientific instrument., vol. 37, no. 7, pp.1468-1476, Jul. 2016.
 
-This program is provided for research purposes only. Any commercial use is prohibited. If you are interested in a commercial use, please contact the copyright holder. 
+This program is provided for research purposes only. Any commercial use is prohibited. If you are interested in a commercial use, please contact the authors. 
 
