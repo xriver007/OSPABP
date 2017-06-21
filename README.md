@@ -2,10 +2,10 @@
 Aiming at the low accuracy problem of flight data online anomaly detection caused by flight mode switching of UAV,  an online anomaly detection method is proposed based on OverSampling Projection Approximation Basis Pursuit (OSPABP)
 
 ## Subspace learning problem
-To be continued..
+To be continued.....
 
 ## Result
-To be continued..
+To be continued.....
 
 ## Code Details
 A standalone implementation of the algorithm is available in `OSPABP.m`.
@@ -14,7 +14,7 @@ Demos illustrating OSPABP for flightdata are provided in:
 
 We implement OSPABP with Matlab 2015b and perform all experiments on a laptop computer equipped with an Intel core i7-4710HQ 2.50-GHz CPU and 8 GB of memory.
 
-The code in Matlab will be open soon.
+The code in Matlab will be open soon.....
 
 ## References
 OSPABP was introduced in the journal paper:
