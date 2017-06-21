@@ -16,6 +16,7 @@ The code in Matlab will be open soon.
 
 ## References
 OSPABP was introduced in the journal paper:
+
 Y. F. He, S. J. Wang, W. J. Wang,  "UAV anomaly detection based on oversampling projection approximation basis pursuit,"
 Chinese Journal of Scientific instrument., vol. 37, no. 7, pp.1468-1476, Jul. 2016.
 
