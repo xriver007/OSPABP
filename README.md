@@ -27,3 +27,6 @@ Chinese Journal of Scientific instrument., vol. 37, no. 7, pp.1468-1476, Jul. 20
 
 This program is provided for research purposes only. Any commercial use is prohibited. If you are interested in a commercial use, please contact the authors. 
 
+Yongfu He's Personal Blog: https://yongfuhe2017.github.io/
+
+Yongfu He's Personal Website: https://xriver007.github.io/
