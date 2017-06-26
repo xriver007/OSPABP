@@ -20,7 +20,7 @@ We implement OSPABP with Matlab 2015b and perform all experiments on a laptop co
 **The code in Matlab will be released soon.....**
 
 ## References
-If you used this program in your research work, you should cite the following publication:
+If you find the code useful, I appreciate it very much if you can cite my related paper:
 
 Y. F. He, S. J. Wang, W. J. Wang,  "UAV anomaly detection based on oversampling projection approximation basis pursuit,"
 Chinese Journal of Scientific instrument., vol. 37, no. 7, pp.1468-1476, Jul. 2016.
